@@ -96,7 +96,3 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/miss.selfdestrukt)
 
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielajimenez99&color=53b14f&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
-</div>
